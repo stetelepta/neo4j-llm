@@ -121,6 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env.lotr
 .venv
 env/
 venv/
